@@ -1,0 +1,15 @@
+==CronMod ICS==
+
+
+*CronMod was Built using CyanogenMod Source Code*
+
+*Brought to you by the CronMod-Dev Team*
+
+*Supported Devices*
+"Bravo", "Bravoc"
+
+
+#Inital Release 1.0.0# :-)
+
+-various xml and source edits
+

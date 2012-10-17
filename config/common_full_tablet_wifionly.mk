@@ -25,5 +25,5 @@ PRODUCT_COPY_FILES += \
 
 ifeq ($(TARGET_BOOTANIMATION_NAME),)
     PRODUCT_COPY_FILES += \
-        vendor/cm/prebuilt/common/bootanimation/bootanimation-tablet:system/media/bootanimation.zip
+        vendor/cm/prebuilt/common/bootanimation/bootanimation-tablet.zip:system/media/bootanimation.zip
 endif

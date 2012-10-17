@@ -90,7 +90,6 @@ PRODUCT_PACKAGES += \
     libcyanogen-dsp \
     audio_effects.conf \
     CMWallpapers \
-    Apollo \
     Torch \
     FileManager
 

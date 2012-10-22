@@ -4,12 +4,6 @@ $(call inherit-product, vendor/cm/config/common.mk)
 # Bring in all audio files
 include frameworks/base/data/sounds/NewAudio.mk
 
-# Extra Ringtones
-include frameworks/base/data/sounds/AudioPackageNewWave.mk
-
-# Bring in all video files
-$(call inherit-product, frameworks/base/data/videos/VideoPackage2.mk)
-
 # Default ringtone
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.config.ringtone=Rigel.ogg \

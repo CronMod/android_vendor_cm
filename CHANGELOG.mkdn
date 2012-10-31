@@ -9,7 +9,27 @@
 "Bravo", "Bravoc"
 
 
-#Inital Release 1.0.0# :-)
+#Inital Release 2.0.0# :-)
 
 -various xml and source edits
 
+
+#Release 2.0.1#
+
+-build using custom config to shrink size
+
+-fix video recording (still laggy tho)
+
+-replace djmesias source with evervolvs
+
+-fix led notifications
+
+-use spazedogs hardware ril source (fixs cdma service issues and should improve gsm)
+
+-add changelog in settings app
+
+-update to latest kernel
+
+-remove cyanogen ringtones/notifications to shrink size
+
+-remove video editor and add it as a choice on install

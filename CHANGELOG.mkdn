@@ -31,3 +31,26 @@
 -remove cyanogen ringtones/notifications to shrink size
 
 -remove video editor and add it as a choice on install
+
+
+#Inital Rerelease 2.1.0# :-)
+
+-pull updates from cyanogenmod and evervolv
+
+-replace some evervolv sources with modified cyanogenmod sources (more like the original ics builds)
+
+-replace spazedogs ril source with cyanogenmods
+
+-fix cdma service issues (all works now)
+
+-new apn config for cdma (same as my gingerbread rom)
+
+-update to latest kernel
+
+-add proper build flags and vendor files
+
+-fix camcorder (recording still choppy)
+
+-fix thumbnails for videos higher then 480p (still no playback)
+
+-fix gps
